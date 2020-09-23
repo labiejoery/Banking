@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram MajorVersion="1" MinorVersion="1">
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
   <Class Name="Banking.Models.Domein.BankAccount">
     <Position X="6.5" Y="1.75" Width="2.75" />
     <TypeIdentifier>
-      <HashCode>EAAAAIAAAAAAAAAAAAgAAAAEAAgAAAIAAAAAAAAAAAI=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAEAAgAAAIAAAAAAAAAAAI=</HashCode>
       <FileName>Models\Domein\BankAccount.cs</FileName>
     </TypeIdentifier>
   </Class>

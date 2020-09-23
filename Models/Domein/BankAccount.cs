@@ -3,10 +3,6 @@
     public class BankAccount
     {
 
-        private readonly string _accountNumber;
-        private decimal _balance;
-
-
         #region Properties
         public string AccountNumber { get; }
         public decimal Balance { get; set; } = 0M;
